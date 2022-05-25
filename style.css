@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  h1 
 {color: red;
 background-color: aqua;
@@ -30,3 +31,18 @@ background-color: chartreuse;
 border-radius: 50%;
 
  }
+=======
+ h1 
+{color: red;
+background-color: aqua;
+text-align:center;
+text-decoration:dotted underline;
+}
+.btn{
+    color:rgb(19, 140, 82);
+}
+.btn:hover{
+    cursor: pointer;
+}
+
+>>>>>>> 720f1fa4a8c0d4b02bf029c4644907d631237c94
