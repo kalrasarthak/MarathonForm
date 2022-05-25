@@ -11,22 +11,3 @@ text-decoration:dotted underline;
     cursor: pointer;
 }
 
-h2{
-    text-decoration: none;
-}
- 
-
-.circle
- { background-color: aqua;
-    height: 200px;
-    width: 200px;
-transition: 1.5s;
-border: 1px;
- }
-
- .circle:hover
- {
-background-color: chartreuse;
-border-radius: 50%;
-
- }
