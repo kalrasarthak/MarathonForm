@@ -1,13 +1,38 @@
+body
+
+{background-image:url("marathon.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+
 h1 
-{color: red;
-background-color: aqua;
+{color: red;;
+background-color: rgb(107, 151, 151);
 text-align:center;
 text-decoration:dotted underline;
 }
 .btn{
     color:rgb(19, 140, 82);
+    
+  
 }
 .btn:hover{
     cursor: pointer;
 }
 
+#funrun5k:hover 
+{cursor: pointer;}
+
+#halfmarathon:hover 
+{cursor: pointer;}
+
+#fullmarathon:hover 
+{cursor: pointer;}
+
+section
+{
+    width: 50%;
+    align-content: center ;
+    margin:auto;
+    background-color: white;
+}
